@@ -1,0 +1,9 @@
+var obj=new Aaa（）;
+function Aaa(){
+ this.length=0;
+}
+//push是一Aaa的对象
+Aaa.prototype.add=function(){
+
+};
+obj.add();
