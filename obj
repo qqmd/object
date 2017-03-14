@@ -6,4 +6,10 @@ function Aaa(){
 Aaa.prototype.add=function(){
 
 };
+
+Aaa.prototype  这是构造函数的原型
 obj.add();
+
+
+原型链：实例对象与原型之间的链接   _proto_
+原型链的最外层：object.prototype
